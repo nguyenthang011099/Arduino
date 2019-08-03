@@ -2,7 +2,7 @@
 # Controlling Arduino with Blynk via Bluetooth 
 
  ## This  work  presents  how  to  connect  Arduino  board  to  a  smartphone  via  Bluetooth  
-  send  commands  in both directions, from  smartphone  to Arduino board and vice  versa.
+ ** send  commands  in both directions, from  smartphone  to Arduino board and vice  versa.**
  For this project we need an Arduino UNO or Mega board, Bluetooth module HC 05 and Android  smartphone. 
  HC  05  is  a  transceiver  that  realizes  the  connection  between  the smartphone and  Arduino  board. 
  It is  shown in the figure 1. It work at 3.3 V but it can be powered  by  the  5  V  of  Arduino  board because 
