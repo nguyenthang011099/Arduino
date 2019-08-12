@@ -17,15 +17,15 @@ which can supports  signals  up  to  5  V.  The  wiring  is presented  in  figur
 For beginning, we will you simple test by Blynk led code- which can turn ON or OFF 
 led on D13 in of Arduino
 
-![](image/Capture)
+![](image/Capture.png)
 
 ###Example 2 : Control servor
 This example show how to control servor with smart phone
 On the Blynk app, we add virtual pin V7. We set the angle 0- 145 deg. The button led still remains.
 
-![](image/Capture2)
+![](image/Capture2.png)
 
 ###Example 3 : Show Temperature
 This example shows how to read the temperature using the Sensor LM35 and send data to your smart phone
 
-![](image/Capture3)
+![](image/Capture3.png)
